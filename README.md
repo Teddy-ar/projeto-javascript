@@ -10,28 +10,28 @@ O projeto foi iniciado no curso de JavaScript da DEVMEDIA, após concluir o curs
 ### Executando o projeto na linha de comando com node.js
 ![JavaScript](https://github.com/Teddy-ar/projeto-javascript/blob/master/assets/Animacao5.gif) 
 
-### Para criação deste projeto foram utilizados os seguintes recursos:
+## Para criação deste projeto foram utilizados os seguintes recursos:
 
 ### Estruturas condicionais
-  if, else if, else
-  if ternário
+  - if, else if, else
+  - if ternário
 ### Manipulação do objeto Date
-  new Date()
-  .getFullYear()
-  .getMonth()
-  .setFullYear()
+  - new Date()
+  - .getFullYear()
+  - .getMonth()
+  - .setFullYear()
 ### Funções nativas de Array
-  filter
-  forEach
-  split
-  length
+  - filter
+  - forEach
+  - split
+  - length
 ### Funções nativas de String
-  template ''
-  .padEnd()
-  .indexOf()
+  - template ''
+  - .padEnd()
+  - .indexOf()
 ### Funções
-  arrow function
+  - arrow function
 ### Módulos
-  import, export e default
+  - import, export e default
 
 
